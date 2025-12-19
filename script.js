@@ -7,16 +7,16 @@ const config = {
 };
 
 const spotlightItems = [
-    { name: "Silent Arc", img: "./img_1.jpg" },
-    { name: "Bloom24", img: "./img_2.jpg" },
-    { name: "Glass Fade", img: "./img_3.jpg" },
-    { name: "Echo 9", img: "./img_4.jpg" },
-    { name: "Velvet Loop", img: "./img_5.jpg" },
-    { name: "Field Two", img: "./img_6.jpg" },
-    { name: "Pale Thread", img: "./img_7.jpg" },
-    { name: "Stillroom", img: "./img_8.jpg" },
-    { name: "Ghostline", img: "./img_9.jpg" },
-    { name: "Mono 73", img: "./img_10.jpg" },
+    { name: "Silent Arc", img: "./assets/img_1.jpg" },
+    { name: "Bloom24", img: "./assets/img_2.jpg" },
+    { name: "Glass Fade", img: "./assets/img_3.jpg" },
+    { name: "Echo 9", img: "./assets/img_4.jpg" },
+    { name: "Velvet Loop", img: "./assets/img_5.jpg" },
+    { name: "Field Two", img: "./assets/img_6.jpg" },
+    { name: "Pale Thread", img: "./assets/img_7.jpg" },
+    { name: "Stillroom", img: "./assets/img_8.jpg" },
+    { name: "Ghostline", img: "./assets/img_9.jpg" },
+    { name: "Mono 73", img: "./assets/img_10.jpg" },
 ];
 
 // Lenis

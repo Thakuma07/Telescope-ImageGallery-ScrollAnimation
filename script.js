@@ -7,16 +7,18 @@ const config = {
 };
 
 const spotlightItems = [
-    { name: "Silent Arc", img: "./assets/img_1.jpg" },
-    { name: "Bloom24", img: "./assets/img_2.jpg" },
-    { name: "Glass Fade", img: "./assets/img_3.jpg" },
-    { name: "Echo 9", img: "./assets/img_4.jpg" },
-    { name: "Velvet Loop", img: "./assets/img_5.jpg" },
-    { name: "Field Two", img: "./assets/img_6.jpg" },
-    { name: "Pale Thread", img: "./assets/img_7.jpg" },
-    { name: "Stillroom", img: "./assets/img_8.jpg" },
-    { name: "Ghostline", img: "./assets/img_9.jpg" },
-    { name: "Mono 73", img: "./assets/img_10.jpg" },
+    { name: "FFFFFound MMMMood", img: "./assets/back.webp" },
+    { name: "Japanese Mini Trucks", img: "./assets/2.webp" },
+    { name: "Listening Rooms", img: "./assets/3.webp" },
+    { name: "Watchlist", img: "./assets/4.webp" },
+    { name: "Cycling Fits", img: "./assets/5.webp" },
+    { name: "Midjourney Inspo", img: "./assets/6.webp" },
+    { name: "Porto City Guide", img: "./assets/7.webp" },
+    { name: "Bookmarked", img: "./assets/8.webp" },
+    { name: "Montreal Bakeries", img: "./assets/9.webp" },
+    { name: "Party Couture", img: "./assets/10.webp" },
+    { name: "Perfect Vessels", img: "./assets/0.webp" },
+    { name: "Dream Interiors", img: "./assets/1.webp" },
 ];
 
 // Lenis

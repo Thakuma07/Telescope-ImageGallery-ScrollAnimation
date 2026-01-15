@@ -1,6 +1,11 @@
 @font-face {
-    font-family: "PP Neue Montreal";
-    src: url(./font/ppneuemontreal-bold.otf);
+    font-family: "Beausite";
+    src: url(./font/Beausite-Regular.otf);
+}
+
+@font-face {
+    font-family: "CM Geom";
+    src: url(./font/cmgeom-regular.ttf);
 }
 
 * {
@@ -8,13 +13,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 html, body {
     width: 100%;
     overflow-x: hidden;
 }
 
 body {
-    font-family: "PP Neue Montreal";
+    font-family: "Beausite";
 }
 
 img {
@@ -145,6 +151,7 @@ section {
     color: #fff;
     opacity: 0.25;
     transition: opacity 0.3s ease;
+    font-family: "CM Geom";
 }
 
 .spotlight-images {
